@@ -1,0 +1,7 @@
+git init
+git clone 
+git add <arquivo>
+git add *
+git commit -m "comentários das alterações"
+git push origin master
+git remote add origin https://github.com/DevJoseWeb/tesla369_v1
